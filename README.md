@@ -1,4 +1,4 @@
-# Game-Hangman-Pendu-
+# Game
 Jeux du pendu Golang
 
 
